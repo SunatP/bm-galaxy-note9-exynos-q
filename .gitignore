@@ -129,3 +129,6 @@ kernel/configs/android-*.cfg
 /scripts/fmp/__pycache__/ELF.cpython-38.pyc
 /scripts/fmp/__pycache__/IntegrityRoutine.cpython-38.pyc
 /scripts/fmp/__pycache__/Utils.cpython-38.pyc
+
+# dtb
+dtb.img
